@@ -1,0 +1,9 @@
+{
+	"name" : "SamplePlugin",
+	"version" : "2.0-SNAPSHOT",
+	"javaClass": "com.orientechnologies.plugin.OSamplePlugin",
+	"description" : "This is a sample Plugin",
+	"web" : "http://www.orientechnologies.com",
+	"copyrights" : "Orient Technologies LTD",
+	"license" : "Apache 2"
+}
